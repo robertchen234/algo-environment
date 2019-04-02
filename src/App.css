@@ -35,8 +35,11 @@
 .container {
   display: flex;
   height: 100vh;
+  background-color: #282c34;
+  color: white;
 }
 
-.input, .output {
+.input,
+.output {
   margin: auto;
 }
