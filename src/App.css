@@ -31,3 +31,12 @@
     transform: rotate(360deg);
   }
 }
+
+.container {
+  display: flex;
+  height: 100vh;
+}
+
+.input, .output {
+  margin: auto;
+}
